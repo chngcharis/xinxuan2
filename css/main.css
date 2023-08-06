@@ -1,0 +1,77 @@
+h2 {
+    color: lightcoral;
+    background-color: burlywood;
+    text-align: center;
+    font-size: 5vw;
+}
+o1 {
+    background-color: rgb(185, 198, 237);
+
+}
+li {
+    background-color: pink;
+}
+
+#navbar {
+    background-color:burlywood;
+    border-style: solid;
+    border-color: black;
+    border-collapse: collapse;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+}
+#navbar th {
+    border-style:solid purple
+}
+body {
+    background-image: url(../img/backgrouond\ wood.png);
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    border: 3px solid 
+    
+}
+header {
+    background-color: #B287A3;
+    color: #AF6B3D;
+    text-align: center;
+    font-size: 50px;
+    border: 3px solid white;
+}
+footer {
+    background-color: lightpink;
+    color:rgb(17, 130, 229);
+    font: size 12px;
+    border:3px solid #fffaff;
+    padding-left: 5px;
+}
+
+.profile {
+    background-color: pink;
+    text-align:center;
+}
+.even-row {
+    background-color: burlywood;
+}
+.navbar {
+    background-color: #fffaff;
+    border: solid #b3b3c5;
+    font-size: 20px;
+    position: sticky;
+    top: 0px;
+}
+.dropdown {
+    display: inline-block;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #fffaff;
+    color:#B287A3;
+    paddling: 5px;
+box-shadow: 5px 5px 10px black;
+}
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+.active {
+    background-color: lightcoral;
+}
